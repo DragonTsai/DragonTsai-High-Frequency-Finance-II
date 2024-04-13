@@ -1,6 +1,6 @@
 This repository contains my second coursework for the High-Frequency Finance course, focusing on the exploration and implementation of foreign exchange (FX) trading strategies based on the intrinsic time framework. The key methodology employed is the "Dissection Algorithm," which identifies directional changes in FX price data.
 
-Key Contents and Features:
+**Key Contents and Features:**
 Introduction to the Dissection Algorithm: A detailed explanation of the algorithm's principles and its application in the FX market.
 Implementation of Trading Strategies:
 Strategy 1: Decision-making based on fixed thresholds.
